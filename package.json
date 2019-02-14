@@ -1,0 +1,28 @@
+{
+  "name": "gdgkaf",
+  "version": "1.0.0",
+  "description": "Website for Google Developer Group (GDG) Kafanchan",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdgkaf/website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdgkaf/website/issues"
+  },
+  "homepage": "https://github.com/gdgkaf/website#readme",
+  "dependencies": {
+    "next": "^8.0.1",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  }
+}
