@@ -59,7 +59,7 @@ var _jsxFileName = "C:\\sites\\node\\gdgkaf\\pages\\index.js";
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!****************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5Csites%5Cnode%5Cgdgkaf%5Cpages%5Cindex.js ***!
   \****************************************************************************************************************/
@@ -82,5 +82,5 @@ module.exports = dll_7b9265c061e07b49bd43;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]));;
+},[[2,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=index.js.map
